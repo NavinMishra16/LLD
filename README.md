@@ -1,4 +1,4 @@
-# Low Level Design of PVP between Two Players
+# Low Level Design of PVP Battle in Arena
 
 ## Project Overview
 This project demonstrates a low-level design (LLD) of a Player vs Player (PVP) battle system between two players in Java. It includes classes for players, battles, and an arena to manage battles between players.
